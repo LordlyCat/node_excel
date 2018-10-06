@@ -1,0 +1,28 @@
+{
+  "name": "node_excel",
+  "version": "1.0.0",
+  "description": "导出excel文件",
+  "main": "app.js",
+  "dependencies": {
+    "koa": "^2.5.3",
+    "koa-body": "^4.0.4",
+    "koa-cors": "^0.0.16",
+    "koa-router": "^7.4.0",
+    "koa-send": "^5.0.0",
+    "node-xlsx": "^0.12.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LordlyCat/node_excel.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LordlyCat/node_excel/issues"
+  },
+  "homepage": "https://github.com/LordlyCat/node_excel#readme"
+}
